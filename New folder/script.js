@@ -1,0 +1,9 @@
+const button=document.querySelector(".btn");
+const button1=document.querySelector(".btn1");
+button1.style.backgroundColor="#ec3f0f";
+button1.style.border="1px solid orange";
+button1.style.textDecoration="none";
+button1.style.marginLeft="20px";
+button.style.border="none";
+button.style.marginLeft="150px"
+button.style.textDecoration="none";
